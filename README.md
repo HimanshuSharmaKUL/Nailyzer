@@ -1,7 +1,7 @@
 # Nailyzer
 ##Overview
-The project aims to detect symptons various diseases with use of image processing techniques.
-The software takes digital image as an input from user on which analysis is carried out. The software is trained with dataset of images of different human body parts. It detects irregularity in input image and outputs the probable cause of the same.
+The project aims to detect symptoms of various diseases with use of image processing techniques.
+The software takes digital image as an input from user on which analysis is carried out. The software is trained with a dataset of nail images of about 279 individuals. Our algoithm extracts features based on color textures and irregularities in input image and outputs the probable cause of the same.
 This software is useful as it is one-of-its-kind and it can be used as a Self-diagnostic tool without the help of a medical professional.
 
 ##What we have done
