@@ -11,7 +11,7 @@ The software uses digital image processing algorithms to analyse the images of n
 
 As a nail is unique to every person, there are many body organs such as eyes and tongue whose images can be used to determine symptons of even a fatal disease in its early stages.
 
-##Requirements ##
+## Requirements ##
 1) Octave or Matlab
 2) Dataset ( You can use your own dataset to train as well )
 
