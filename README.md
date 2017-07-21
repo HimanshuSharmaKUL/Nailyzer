@@ -13,6 +13,6 @@ As a nail is unique to every person, there are many body organs such as eyes and
 
 ## Requirements ##
 1) Octave or Matlab
-2) Dataset ( You can use your own dataset to train as well )
+2) Nail Image Dataset ( You can use your own dataset to train as well )
 
 
